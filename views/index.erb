@@ -1,0 +1,6 @@
+<ul>
+    <% @rss.items.each do |entry|%>
+        <li><a href="<%= entry.link %>" target="blank"><%= entry.title %></a></li>
+        <hr>
+    <% end %>
+</ul>

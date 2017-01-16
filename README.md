@@ -1,0 +1,2 @@
+# Sinatra RSS Antenna  
+はてなのホッテントリRSSをSinatraでつくってみた。
